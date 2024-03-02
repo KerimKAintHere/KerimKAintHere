@@ -1,6 +1,6 @@
 ## Info -
 
-Hallo do, ma Name ist *Kerim**, a PHP enthusiast
+Hallo do, ma Name ist *Kerim*, a PHP enthusiast
 I'm a PHP fan
 - I'm currently learning : [C](https://www.cprogramming.com/), [Firebase](https://firebase.google.com/), and [Laravel](https://laravel.com/)
 - I'm the Founder of Deagle, a small social media project
