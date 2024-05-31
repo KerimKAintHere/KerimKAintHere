@@ -9,9 +9,7 @@ I'm a PHP fan
 
 [GitHub](https://github.com/KerimKAintHere)
 
-Discord: KerimKAinThere
 
-[Twitter](https://twitter.com/HKerimK)
 
 ## Languages and Frameworks -
 
