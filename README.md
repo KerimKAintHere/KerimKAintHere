@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kerimkainthere" alt="kerimkainthere" /></a> </p>
 
-- I mainly work with **PHP, HTMl, Laravel and Postgres (Supabase)**
+- I mainly work with **PHP, HTMl (no CSS hell nah), Laravel and Postgres (Supabase)**
 
 - How to reach me: **discord: hakenothin**
 
 - I’m currently learning **C and x86 Assembly**
 
-- Tech stack and Framework prefference: **Fullstack MVC**
+- Prefference in frameworks: **Fullstack MVC**
 
-- Fun fact: **I prefer working alone, I don't do well when working with a group**
+- fact: **I prefer working alone, I don't do well when working with a group**
 
 - Main Operating Systems I use for work: **WSL2 Ubuntu**
 
