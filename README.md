@@ -1,5 +1,5 @@
 <h1 align="center">I'm humanity's best child support evader</h1>
-<h3 align="center">newbie web-developer from Austria, I hate AI and Javascript. I'm looking forward to expand skills.</h3>
+<h3 align="center">newbie from Austria, I hate AI and Javascript lol. I'm looking forward to expand skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerimkainthere&label=Profile%20views&color=0e75b6&style=flat" alt="kerimkainthere" /> </p>
 
