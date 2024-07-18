@@ -1,5 +1,5 @@
-<h1 align="center">I'm humanity's best child support evader</h1>
-<h3 align="center">newbie from Austria, I hate AI and Javascript lol. I'm looking forward to expand skills.</h3>
+<h1 align="center">This user evades child support!</h1>
+<h3 align="center">Welcome to my page</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerimkainthere&label=Profile%20views&color=0e75b6&style=flat" alt="kerimkainthere" /> </p>
 
@@ -7,17 +7,17 @@
 
 - I mainly work/ed with **PHP, HTMl (no CSS hell nah), Laravel and Postgres (Supabase)**
 
-- How to reach me: **discord: hakenothin**
+- Current interested in learnin: **Assembly**
 
-- I’m currently learning **C and x86 Assembly**
+- How to reach me: **discord: hakenothin**
 
 - Prefference in frameworks: **Fullstack MVC**
 
-- fact: **I don't like Javascript, I'd do anything but use it**
+- fact: **I don't like Javascript**
 
 - Main Operating Systems I use for work: **WSL2 Ubuntu, Windows 11**
 
-- Main Text editor **Neovim and Visual Studio Code (only for projects in a git repository)**
+- Main Text editor **Neovim and VSC (sometimes)**
 
 
 <h3 align="left">Languages and other stuff:</h3>
