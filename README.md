@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kerimkainthere" alt="kerimkainthere" /></a> </p>
 
+<h4 align="center">Biography and Experience</h4>
+
 - I mainly work/ed with **PHP, HTMl (no CSS hell nah), Laravel and Postgres (Supabase)**
 
 - Current interested in learnin: **Assembly**
 
 - How to reach me: **discord: hakenothin**
 
-- Prefference in frameworks: **Fullstack MVC**
+- Preferrence in frameworks: **Fullstack MVC**
 
 - fact: **I don't like Javascript**
 
